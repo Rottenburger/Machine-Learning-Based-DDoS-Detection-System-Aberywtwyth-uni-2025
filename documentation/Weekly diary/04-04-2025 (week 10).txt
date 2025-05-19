@@ -1,0 +1,12 @@
+04-04-2025 (week 10)
+Author: Thomas Roethenbaugh
+
+Tasks completed this week:
+
+- Met with Muhammad to discuss progress (15 minutes)
+- Gathered benign data traffic for model (12 hours)
+- Converted said traffic into usable data (8 hours)
+- Created notbook to test data on ML models (6 hours)
+- Started and completed real-time DDoS script using the provided script as a guide (10 hours)
+
+Total hours spent this week: 36 hours and 15 minutes

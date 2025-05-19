@@ -1,0 +1,9 @@
+17-04-2025 (week 12).txt
+Author: Thomas Roethenbaugh
+
+Tasks completed this week:
+
+- First draft of report (30 hours)
+- Testing of DDoS prevention (2 hours)
+
+Total hours spent this week: 32 hours and 0 minutes

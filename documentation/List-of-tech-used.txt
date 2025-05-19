@@ -1,0 +1,28 @@
+VM/Networking:
+Virtual box by Oracle
+Ubuntu by Canonical
+Mininet
+hping3
+Sflow-RT
+Nmap
+OpenDaylight (SDN)
+xterm
+xorg
+openbox
+Iperf3
+pyshark
+tcpdump
+ONOS (SDN)
+Python cicflowmeter
+scapy
+Faucet (SDN controller)
+
+pipx?
+
+Data science/ML:
+Python
+Google Collab
+Pandas
+Skit learn
+matplotlib
+seaborn

@@ -1,0 +1,18 @@
+27-03-2025 (week 9)
+Author: Thomas Roethenbaugh
+
+Tasks completed this week:
+
+- Met with Muhammad to discuss progress (15 minutes)
+
+- Worked on converting the .pacp files into .csv files (23 hours)
+    - Tried and failed to get CIC working
+    - Used Python package (failed)
+    - Re-read papers and found new technique
+
+- Implement ensemble voting on Google notebook (8 hours)
+- Work on real-time DDoS script (4 hours)
+- Covert data into .csv (3 hours)
+
+Total hours spent this week: 38 hours and 15 minutes
+

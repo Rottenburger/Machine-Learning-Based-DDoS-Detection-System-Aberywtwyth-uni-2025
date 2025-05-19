@@ -1,0 +1,17 @@
+20-03-2025 (week 8)
+Author: Thomas Roethenbaugh
+
+Tasks completed this week:
+
+- Attended lectures (2 hours)
+- Met with Muhammad to discuss progress (15 minutes)
+- Completed mid-project demo (15 minutes)
+- Got SDN controller working ONOS (4 hours)
+- Created custom dataset with malicous traffic (5 hours)
+- Wrote a script to try processing the dataset (14 hours)
+- Started work on the real-time script (2 hour)
+- Started writting the report (1 hour and 30 minutes)
+- Re-read the scientific papers (5 hours)
+
+Total hours spent this week: 34 hours and 0 minutes
+

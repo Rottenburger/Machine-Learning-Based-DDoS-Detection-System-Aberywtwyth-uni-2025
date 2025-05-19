@@ -1,0 +1,13 @@
+31-01-2025 (week 1)
+Author: Thomas Roethenbaugh
+
+Tasks completed this week:
+
+- Read 3 academic articles provided by Muhammad Aslam about DDoS dection models and took notes (6 hours)
+- Attended lectures (2 hours)
+- Met with Muhammad to discuss progress (15 minutes)
+- Started and completed first draft of Project Outline (5 hours)
+- Explored the CIC-DDOS2019 and NSL-KDD datasets using Google colab (6 hours)
+- Created GitLab repository and setup several issues/sprints (1 hour 30 minutes)
+
+Total hours spent this week: 20 hours and 45 minutes

@@ -1,0 +1,13 @@
+06-02-2025 (week 2)
+Author: Thomas Roethenbaugh
+
+Tasks completed this week:
+
+- Attended lectures (2 hours)
+- Met with Muhammad to discuss progress (15 minutes)
+- Completed and uploaded project outline (12 hours)
+- Data cleaning and analysis of CICDDoS dataset (5 hours)
+- Creation and testing of SDN enviroment, successful tests (6 hours)
+- Research of networking protocols and DDoS attacks (3 hours)
+
+Total hours spent this week: 28 hours and 15 minutes

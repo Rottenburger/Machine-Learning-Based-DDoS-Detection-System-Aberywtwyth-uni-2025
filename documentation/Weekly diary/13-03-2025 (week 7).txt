@@ -1,0 +1,14 @@
+13-03-2025 (Week 7)
+Author: Thomas Roethenbaugh
+
+Tasks completed this week:
+
+- Get accuracy score for ML models up to 99% (20 hours)
+- Finishing touches for the mid-project demo (3 hours)
+- More DDoS simulations (1 hour)
+- Read new scientific paper and re-read old papers (6 hours)
+- Experiment with SDN controller for simulations (3 hours)
+- Meeting with Muhammud (30 minutes)
+
+Total hours spent this week: 33 hours and 30 minutes
+

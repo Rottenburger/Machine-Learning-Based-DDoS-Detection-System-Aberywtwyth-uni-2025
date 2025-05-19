@@ -1,0 +1,13 @@
+06-03-2025 (Week 6)
+Author: Thomas Roethenbaugh
+
+Tasks completed this week:
+
+- Work on real-time DDoS detection scripts with packet capture (13 hours)
+- Work on presentation for mid-project demo (3 hours)
+- Perform first tests on CIC dataset for ML detection, currently the highest precision rate is 74% (6 hours)
+- Improve bash scripts for simulated attacks (5 hours)
+- Packet capture tests (2 hours)
+- meeting with muhamud (20 minutes)
+
+Total hours spent this week: 29 hours and 20 minutes

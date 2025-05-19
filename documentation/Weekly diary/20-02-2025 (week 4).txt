@@ -1,0 +1,15 @@
+20-02-2025 (Week 4)
+Author: Thomas Roethenbaugh
+
+Tasks completed this week:
+
+- Attended lectures (2 hours)
+- Met with Muhammad to discuss progress (15 minutes)
+- Test beign traffic generation (3 hours)
+- Install SFlow (30 minutes)
+- Get visualisations ready (1 hour)
+- Re-Factor virtual machines (8 hours)
+- Some feature extraction (1 hour)
+
+
+Total hours spent this week: 15 hours and 15 minutes

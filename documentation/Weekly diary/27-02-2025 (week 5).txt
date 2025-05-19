@@ -1,0 +1,16 @@
+27-02-2025 (Week 5)
+Author: Thomas Roethenbaugh
+
+Tasks completed this week:
+
+- Attended lectures (2 hours)
+- Met with Muhammad to discuss progress (15 minutes)
+- Create multiple methods of bengin trafic (UDP) between hosts (4 hours)
+- Create and test multiple types of DDoS attacks with hping3 (10 hours)
+- Research real-time DDoS implementations (8 hours)
+- Perform feature extraction for dataset (6 hours)
+- Research and test SDN solutions (4 hours)
+- Complete ethics form (1 hour)
+
+
+Total hours spent this week: 35 hours and 15 minutes

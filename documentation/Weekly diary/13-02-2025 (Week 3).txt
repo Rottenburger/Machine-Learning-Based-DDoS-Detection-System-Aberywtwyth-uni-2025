@@ -1,0 +1,18 @@
+13-02-2025 (Week 3)
+Author: Thomas Roethenbaugh
+
+Tasks completed this week:
+
+- Attended lectures (2 hours)
+- Met with Muhammad to discuss progress (15 minutes)
+- Data cleaning (20 hours)
+- Merge column types for both training and testing datasets so that they are the same
+- Remove single unique column values to avoid one weird column skewing the ML model
+- Remove highly correlated columns to improve the perfromence of the ML model
+- Null data removal and duplicate removal
+- labels like DrDDoS_UDP instead of just UDP
+- Data analysis (10)
+- Visual graphs
+- Some network testing (30 minutes)
+
+Total hours spent this week: 32 hours and 45 minutes
