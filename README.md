@@ -43,7 +43,7 @@ Enjoy!
 ## How to run the engineering code (real-time detection)
 
 Given the setup surrounding the Ubuntu virtual machine and Mininet virtual network, running this locally will prove quite the challenge. 
-If you REALLY want to run this yourself, I've uploaded my VM with all its settings and packages here - https://mega.nz/file/xBkCnLxT#PT_7Xxs_h_dgMuETvYCioyvMAVFwMWkNLdj_MKGuu10
+If you REALLY want to run this yourself, I've uploaded my VM with all its settings and packages here - REMOVED
 
 Double click on this file on a machine with VirtualBox installed
 
