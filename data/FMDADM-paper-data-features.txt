@@ -1,0 +1,61 @@
+E. THE COMPUTED FEATURES
+
+1) COMPUTED PARTICULAR WINDOW ENTROPY (CPWE)
+This feature refers to the entropy of a 32-packet window.
+To extract this feature, we created a function called DstIpCollect.py in Python and added it to the controller. This function collects destination IP addresses in a 32-packet window.
+Every new packet received by the controller was stored in an
+VOLUME 11, 2023 28943
+W. I. Khedr et al.: FMDADM: A Multi-Layer DDoS Attack Detection and Mitigation Framework
+array table. The entropy of the window was calculated when
+the array (packet_count) reached 32. The window entropy
+was computed under both normal and attack conditions.
+
+2) COMPUTED PACKET RATE FEATURE (CPRF)
+Packet rate is an extracted feature that indicates the number
+of data packets sent per second. The packet rate feature is
+calculated by dividing the packet per flow by the monitoring
+interval. The Packet per flow (PPF) is another computed
+feature that measures the total number of packets in a single
+flow at any given time. The packet rate feature is calculated
+
+where FPCount represents the total number of packets in a
+single flow, T represents the time frame used to compute the
+packets per flow and MInt is the monitoring interval.
+
+3) RECEIVED FLOW PACKETS STANDARD DEVIATION
+(RFPSD)
+The packet per flow (PPF) feature is a calculated feature that
+equals the packet count (number of packets) for a single flow.
+The standard deviation of the packets per flow was proposed
+as a computed feature. This parameter is highly correlated
+with the likelihood of DDoS. An attacker broadcasts many
+small packets. This metric will be significantly decreased
+because these packets will have a far smaller standard deviation than the normal data packets. The RFPSD feature in (5)
+
+where f represents the number of live flows, n represents the
+number of packets in each live flow at a given time, and AvgP
+represents the average number of packets across all the flows
+over a specified time.
+
+4) RECEIVED FLOW BYTES STANDARD DEVIATION (RFBSD)
+The byte per flow feature is a calculated feature that refers to
+the number of bytes transferred into a single flow. Similar to
+RFPSD, this metric has a significant link with the frequency
+of DDoS attacks, and its predicted value is smaller under
+attack conditions than that under regular traffic conditions.
+
+where f represents the number of live flows, n represents the
+number of packets in each live flow at a given time, and AvgB
+is the average number of bytes across all the flows over a
+specified time.
+
+5) COMPUTED FLOW ENTRY RATE (CFER)
+The flow entry rate (FER) is defined as the total number of
+flows that enter the OpenFlow switch during a given monitoring interval. When a DDoS attack occurs, the number of
+flow entries rapidly increases for a certain amount of time.
+Consequently, this feature is crucial in identifying DDoS
+attacks. The CFER feature in (7) is the computed FER for
+a 32-packet window size, and is computed as follows:
+
+where FCount represents the total number of flows during a
+given time and MInt is the monitoring interval.
