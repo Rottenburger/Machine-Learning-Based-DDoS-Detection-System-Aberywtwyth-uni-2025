@@ -78,9 +78,9 @@ Enjoy!
 - LDAP: Lightweight Directory Access Protocol-based attack
 
 ## Authors and acknowledgment
-Thomas Roethenbaugh (tpr3)
+Rottenburger
 
-I would also like to acknowledge my supervisor Dr Muhamud Aslam, whom without which this project
+I would also like to acknowledge my supervisor Dr Aslam, whom without which this project
 would not have been possible. Thank you for putting up with all my questions.
 
 I also would like to thank my friends and family for helping me throughout these 4 years
